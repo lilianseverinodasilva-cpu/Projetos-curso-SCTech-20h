@@ -1,0 +1,10 @@
+nome = input("Digite seu nome:")
+#idade = input ("Agora, digite sua idade (em anos):")
+#idade2030 = int(idade) + 4
+#idade2030print = str(idade2030)
+data_nasc = input("Agora, digite o ano em que você nasceu:")
+data_nasc_int = int(data_nasc)
+idade_2030 = (2030 - data_nasc_int) 
+idade_2030_str = str(idade_2030)
+#print ("Olá, " + nome + ". Você sabia que em 2030 você terá " + idade2030print + " anos?!")
+print ("Olá, " + nome + ". Você sabia que em 2030 você terá " + idade_2030_str + " anos?!")

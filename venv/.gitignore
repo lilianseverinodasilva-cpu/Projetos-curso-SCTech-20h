@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Pastas de cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de sistema e compactados
+.DS_Store
+*.zip
